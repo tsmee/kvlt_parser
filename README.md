@@ -4,6 +4,7 @@ pretty simple image parser
 
 ### parser.py
 opens page with bands, saves name/link pairs into a file, and goes to the next page
+
 uses **Selenium** to deal with tricky ajax pagination
 
 ### async_parser.py
